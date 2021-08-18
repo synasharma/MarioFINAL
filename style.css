@@ -1,0 +1,60 @@
+.heading
+{
+    width:100%;
+    text-align:left;
+ 
+}
+
+.heading button{
+    float:right;
+    border: solid lightblue 2px;
+    color:black;
+  
+}
+
+.heading h3
+{
+    display:inline;
+  
+}
+
+.big_image
+{
+    width:100%;
+}
+
+#start
+{
+    font-size:22px;
+}
+
+h4
+{
+	margin:0px;
+    bottom:0;
+	background-color:black;
+	line-height:2;
+    color:white;
+    position:fixed;
+    width:100%;
+}
+
+.modal-header button
+{
+     display:inline-block;
+    color:red;
+}
+
+.modal-dialog
+{
+    width:70%;
+}
+
+video
+{
+background-image: url("game_console.png");
+background-size:cover; /*image fits on the div, accordingly crops and expands*/
+background-position: center; 
+padding:25px;
+}
+
